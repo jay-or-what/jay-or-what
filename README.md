@@ -16,6 +16,6 @@ When I'm not studying, you can find me playing music (professionally!), or at th
 Read my latest paper ["XP For the Soul: Video Games, Ethical Learning and Cognitive Tools"](https://www.researchgate.net/publication/394088796_XP_For_the_Soul_Video_Games_Ethical_learning_and_Cognitive_Tools_INTRODUCTION_Ethical_Reflection_and_Unique_Minds) 
 
 
-Every year (except last year!) since 2012 I draw or paint a self portrait. Here is one from 2024, year of the dragon (my sign)!
+At the end of every year (except last year, oops) since 2012 I've drawn or painted a self portrait. Here is one from 2024, year of the dragon (my sign)!
 
-![image alt](https://github.com/jay-or-what/jay-or-what/blob/207aaf14809eb6469f38dae1dd8ade1402142446/images/IMG_4785.PNG)
+![image alt](https://github.com/jay-or-what/jay-or-what/blob/7617d657a48a203b58e9d47009af8c4fcb563d18/images/Self_Portrait_2024.png)
