@@ -9,4 +9,4 @@ My name is Jay (they/them)!
 - ⚡ 2 truths and a lie: I speak 7 languages. My dad has a Nobel peace prize. I have a tram driving license.
 -->
 
-![Self-portrait] (https://github.com/jay-or-what/jay-or-what/blob/def843d333a9b151f4cf16a12face2b007b350cc/images/IMG_4785.PNG)
+![image alt](https://github.com/jay-or-what/jay-or-what/blob/def843d333a9b151f4cf16a12face2b007b350cc/images/IMG_4785.PNG)
