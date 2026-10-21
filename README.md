@@ -18,4 +18,4 @@ Read my latest paper ["XP For the Soul: Video Games, Ethical Learning and Cognit
 
 Every year (except last year!) since 2012 I draw or paint a self portrait. Here is one from 2024, year of the dragon (my sign)!
 
-![image alt](https://github.com/jay-or-what/jay-or-what/blob/aa51ddc9b13481830d3f0e4738ca69fecf1e5d00/images/selfportrait.png)
+![image alt]([https://github.com/jay-or-what/jay-or-what/blob/aa51ddc9b13481830d3f0e4738ca69fecf1e5d00/images/selfportrait.png](https://github.com/jay-or-what/jay-or-what/blob/207aaf14809eb6469f38dae1dd8ade1402142446/images/IMG_4785.PNG))
