@@ -1,12 +1,20 @@
-## Hi there 👋
+## Hey!
 
 My name is Jay (they/them)!
 
-- 🔭 I’m currently working on; my masters degree! And on the side, have just started brainstorming a video game with my partner inspired by Ursula K. Le Guin's Earthsea books. Outside academia I'm a tattoo artist/designer/professional musician. No I don't know how I have the time for all of it, I just find it somehow.
-- 🌱 I’m currently learning about psychological testing methods, coding, and 3d modelling!
-- 💬 Ask me about video games (and especially morality and ethics in games!), music, art, or horses
-- 📫 How to reach me: Discord or carrier pigeon. Response time will be just as slow on either (sorry)
-- ⚡ 2 truths and a lie: I speak 7 languages. My dad has a Nobel peace prize. I have a tram driving license.
+I'm a current MRes student at the University of Sussex, with an academic interest in:
+- Game-based learning environments (GBLEs)
+- Gamification in psychological testing and measurement
+- Neurodevelopmental conditions
+- The role of UI- and graphics design in games in learning outcomes
+- Virtue ethics
+- Belonging in game-related spaces as situated practice
+
+When I'm not studying, you can find me playing music (professionally!), or at the tattoo studio, sometimes tattooing but mostly making Instagram reels...
+📫 How to reach me: Discord or carrier pigeon. Response time will be just as slow on either (sorry)
+
+Read my latest paper ["XP For the SOul: Video Games, Ethical Learning and Cognitive Tools"](https://www.researchgate.net/publication/394088796_XP_For_the_Soul_Video_Games_Ethical_learning_and_Cognitive_Tools_INTRODUCTION_Ethical_Reflection_and_Unique_Minds) 
+
 
 Every year (except last year!) since 2012 I draw or paint a self portrait. Here is one from 2024, year of the dragon (my sign)!
 
