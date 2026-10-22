@@ -4,9 +4,9 @@ My name is Jay (they/them)!
 
 I'm a current MRes student at the University of Sussex, with an academic interest in:
 - Game-based learning environments (GBLEs)
-- Gamification in psychological testing and measurement
+- Gamification in psychometrics
 - Neurodevelopmental conditions
-- UI and UX design
+- Metacognition
 - Predictive Processing (Errors)
 - Virtue ethics
 - Belonging in game-related spaces as situated practice
