@@ -7,8 +7,8 @@ I'm a current MRes student at the University of Sussex, with an academic interes
 - Gamification in psychometrics
 - Neurodevelopmental conditions
 - Metacognition
-- Predictive Processing (Errors)
-- Virtue ethics
+- Predictive Processing (Errors) and Active Inference
+- Virtue ethics and morality in video games
 - Belonging in game-related spaces as situated practice
 
 When I'm not studying, you can find me playing music (professionally!), or at the tattoo studio - sometimes tattooing but mostly making Instagram reels :/ Check out my work [📸](https://www.instagram.com/quixotic_stamps/)!
