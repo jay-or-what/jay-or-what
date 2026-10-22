@@ -7,6 +7,7 @@ I'm a current MRes student at the University of Sussex, with an academic interes
 - Gamification in psychological testing and measurement
 - Neurodevelopmental conditions
 - UI and UX design
+- Predictive Processing (Errors)
 - Virtue ethics
 - Belonging in game-related spaces as situated practice
 
